@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Patient-First-AI-Tech/static/css/main.073c9b0a.css",
+    "main.js": "/Patient-First-AI-Tech/static/js/main.35046364.js",
+    "static/js/787.13b93621.chunk.js": "/Patient-First-AI-Tech/static/js/787.13b93621.chunk.js",
+    "index.html": "/Patient-First-AI-Tech/index.html",
+    "main.073c9b0a.css.map": "/Patient-First-AI-Tech/static/css/main.073c9b0a.css.map",
+    "main.35046364.js.map": "/Patient-First-AI-Tech/static/js/main.35046364.js.map",
+    "787.13b93621.chunk.js.map": "/Patient-First-AI-Tech/static/js/787.13b93621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.35046364.js"
+  ]
+}

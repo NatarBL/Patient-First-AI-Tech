@@ -26,15 +26,15 @@ To run this project you will need to be using visual studio code, install react 
 	
 3. Start react app
    
-          npm start (eact router dom needs to be downloaded before this step)
+   	  a. npm install react-scripts
+	
+          b. npm start (eact router dom needs to be downloaded before this step)
 
 # Install react router dom
 
 In the visual studio terminal run 
-
-	  a. npm install react-scripts
 	
-          b. npm install react-router-dom@6
+          npm install react-router-dom@6
 
 # Notes
 I attempted to set up a git hub pages to allow easy use without having to download any software but since github pages does not support react router this was not possible. Instead, I posted a demo in case there is any issue downloading the proper software to run the app. 

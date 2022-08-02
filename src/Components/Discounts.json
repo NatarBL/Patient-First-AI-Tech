@@ -1,0 +1,14 @@
+[
+    {
+        "name":"cybermonday",
+        "percentage": 0.25
+    },
+    {
+        "name":"veteran",
+        "percentage": 0.1
+    },
+    {
+        "name":"healthcareworkers",
+        "percentage": 0.5
+    }
+]

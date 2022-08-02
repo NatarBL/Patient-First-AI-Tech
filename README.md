@@ -26,7 +26,7 @@ To run this project you will need to be using visual studio code, install react 
 	
 3. Start react app
    
-                 npm start (eact router dom needs to be downloaded before this step)
+          npm start (eact router dom needs to be downloaded before this step)
 
 # Install react router dom
 
